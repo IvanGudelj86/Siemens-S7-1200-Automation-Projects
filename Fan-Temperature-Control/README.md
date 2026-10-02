@@ -34,7 +34,7 @@ Automatic control logic uses temperature thresholds to determine fan operation a
 
 ## Documentation
 
-TIA Portal project documentation will be added after the portfolio version of the laboratory exercise is reviewed and cleaned up.
+- [Full TIA Portal Project Documentation](Documentation/Ventilatori.pdf)
 
 ## Project Context
 
