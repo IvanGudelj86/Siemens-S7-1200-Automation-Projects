@@ -34,6 +34,21 @@ Main features:
 
 [View project details](Vibrator-Conveyor-System/README.md)
 
+### 2. Fan Temperature Control
+
+PLC control system for two fans based on a temperature signal.
+
+Main features:
+
+- Two independent fan control functions
+- Manual and automatic operation
+- Temperature normalization and scaling
+- Temperature threshold logic
+- Time-delay interrupts
+- Operating/start counters
+
+[View project details](Fan-Temperature-Control/README.md)
+
 Additional laboratory projects will be added to this repository after review and cleanup.
 
 ## Project Context
