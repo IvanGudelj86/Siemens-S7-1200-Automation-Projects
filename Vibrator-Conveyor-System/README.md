@@ -43,14 +43,6 @@ The common motor-control function includes fault logic and status outputs for ea
 
 The project uses Data Blocks and a user-defined motor data type to organize individual drive states and parameters.
 
-## Documentation
-
-The complete TIA Portal program export will be added to the `Documentation` folder.
-
-## Images
-
-Selected LAD networks and project screenshots will be added to the `Images` folder.
-
 ## Project Context
 
 This project was completed as a university PLC laboratory exercise and is included as part of a technical automation portfolio.
