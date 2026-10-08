@@ -49,7 +49,6 @@ Main features:
 
 [View project details](Fan-Temperature-Control/README.md)
 
-Additional laboratory projects will be added to this repository after review and cleanup.
 
 ## Project Context
 
