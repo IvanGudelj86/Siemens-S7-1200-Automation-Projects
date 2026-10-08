@@ -43,6 +43,10 @@ The common motor-control function includes fault logic and status outputs for ea
 
 The project uses Data Blocks and a user-defined motor data type to organize individual drive states and parameters.
 
+## Documentation
+
+- [Full TIA Portal Project Documentation](Documentation/Vibrator_Trake.pdf)
+
 ## Project Context
 
 This project was completed as a university PLC laboratory exercise and is included as part of a technical automation portfolio.
